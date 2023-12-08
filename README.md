@@ -16,4 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![Screenshot from 2023-12-08 14-56-27](https://github.com/aaishafarooq/FitnessTracker/assets/79264812/7d29a359-8ad6-455e-aacb-e4afa7b1f61e)
 ![Screenshot from 2023-12-08 14-56-27](https://github.com/aaishafarooq/FitnessTracker/assets/79264812/bb06cece-dbdf-44b2-b374-fdfbb7b195c1)
+![Screenshot from 2023-12-08 14-56-47](https://github.com/aaishafarooq/FitnessTracker/assets/79264812/cda8451b-7eb4-40e9-8a61-13afa08e86be)
+
 
